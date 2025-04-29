@@ -6,4 +6,4 @@ Code ABC 123456
 1. Kaufe Semmel
 2. Kaufe Schnitzel
 3. Lege zusammen
-4. Enjoy
+4. Enjoy!
